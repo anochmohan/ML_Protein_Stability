@@ -24,3 +24,8 @@ Follow the steps [here](https://code.visualstudio.com/docs/datascience/jupyter-k
 
 ## Results
 To view the results, go to [FoldMason Webserver](https://search.foldseek.com/foldmason) and select `Upload Previous Result (JSON)`. Then select `result.json` file.
+
+### References
+ProteinNet: AlQuraishi, M. ProteinNet: a standardized data set for machine learning of protein structure. BMC Bioinformatics 20, 311 (2019). https://doi.org/10.1186/s12859-019-2932-0
+
+FoldMason: Gilchrist, Cameron LM, Milot Mirdita, and Martin Steinegger. "Multiple Protein Structure Alignment at Scale with FoldMason." bioRxiv (2024): 2024-08.
